@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**AngelVillanueva28/AngelVillanueva28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Angel Villanueva! 👋
 
-Here are some ideas to get you started:
+Student of computer engineering. Passionate about web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Technologies
+
+- C++, Java, C#, JavaScript, Typescript, HTML, CSS
+- Frameworks y Librerías: React, Angular, Ionic, .NET
+- [Otras habilidades o tecnologías]
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/avillanuevasac/)
+
