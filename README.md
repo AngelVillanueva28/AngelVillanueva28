@@ -8,7 +8,6 @@ Student of computer engineering. Passionate about web development.
 
 - C++, Java, C#, JavaScript, Typescript, HTML, CSS
 - Frameworks y Librerías: React, Angular, Ionic, .NET
-- [Otras habilidades o tecnologías]
 
 ## Connect with me
 
